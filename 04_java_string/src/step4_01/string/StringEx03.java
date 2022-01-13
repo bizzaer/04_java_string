@@ -67,7 +67,7 @@ public class StringEx03 {
 		// [5] 문자열 비교 : compareTo()
 		
 		str1 = "ab";
-		str2 = "bc";
+		str2 = "ad";
 		str3 = "ac";
 		System.out.println(str1.compareTo(str2));  // str1이 str2보다 전의 문자열이면 음수, 같으면 0, 후면 양수
 		
